@@ -1,19 +1,19 @@
 {
-  "name": "tronbox-compilers",
+  "name": "earthbox-compilers",
   "version": "1.0.0",
-  "description": "A package exposing the solc compiler versions supported by TronBox",
+  "description": "A package exposing the solc compiler versions supported by EarthBox",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TRON-US/tronbox-compilers.git"
+    "url": "git+https://github.com/earthengineering/earth-solc-bin.git"
   },
-  "author": "Francesco Sullo <francesco@sullo.co>",
+  "author": "Gabriel Cardona <gabriel.earth.engineering@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TRON-US/tronbox-compilers/issues"
+    "url": "https://github.com/earthengineering/earth-solc-bin/issues"
   },
-  "homepage": "https://github.com/TRON-US/tronbox-compilers#readme"
+  "homepage": "https://github.com/earthengineering/earth-solc-bin#readme"
 }
