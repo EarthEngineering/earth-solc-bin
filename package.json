@@ -1,6 +1,6 @@
 {
   "name": "earthbox-compilers",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A package exposing the solc compiler versions supported by EarthBox",
   "main": "index.js",
   "scripts": {
